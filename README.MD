@@ -13,7 +13,7 @@ To download all files click button {download ZIP}
 
 
 ## Running the tests
-* Run online [Demo](https://ralsaaran.github.io/Map-master/)
+* Run online [Demo](https://ralsaaran.github.io/Front-End-maps/)
 * Run offline
 ** download all files
 ** open zip file
