@@ -57,14 +57,6 @@ var MapWithMarkers = function() {
             },
             isVisible: ko.observable(true)
         }, {
-            name: 'King Abdullah Financial District‏',
-            address: 'King fahad Rd',
-            location: {
-                lat: 24.761990,
-                lng: 46.640447
-            },
-            isVisible: ko.observable(true)
-        }, {
             name: 'Elm 2',
             address: 'King Fahad street',
             location: {
