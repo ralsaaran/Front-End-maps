@@ -317,7 +317,7 @@ var MapInfoWindow = function() {
             };
             var panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'), panoramaOptions);
         } else {
-            infoWin.setContent('<strong>' + infoWin.marker.title + '</strong><div>' + infoWin.marker.address + '</div>' + '<div>No Street View Found</div>');
+            infoWin.setContent('<strong>' + infoWin.marker.title + '</strong><div>' + infoWin.marker.address + '</div>');
         }
     };
 };
