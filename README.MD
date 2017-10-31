@@ -14,10 +14,14 @@ To download all files click button {download ZIP}
 
 ## Running the tests
 * Run online [Demo](https://ralsaaran.github.io/Front-End-maps/)
+
+
 * Run offline
-** download all files
-** open zip file
-** open index.html
+ * Install local host
+   Python 3:  python -m http.server 8080
+   Python 2:  python -m SimpleHTTPServer 8080
+ * Dawonload project 
+ * Run index.html
 
 ## Built With
 

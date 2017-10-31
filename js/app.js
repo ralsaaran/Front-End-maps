@@ -26,9 +26,9 @@ var MapWithMarkers = function() {
             mapTypeControl: false
         });
 
-    	jQuery.getJSON( "./js/styles.json", function( data ) {
-    		styles = data;
-		});
+  //   	jQuery.getJSON( "./js/styles.json", function( data ) {
+  //   		styles = data;
+		// });
 
         // Set the map's style to the initial value of the selector.
         var styleSelector = document.getElementById('style-selector');
@@ -57,8 +57,8 @@ var MapWithMarkers = function() {
             },
             isVisible: ko.observable(true)
         }, {
-            name: 'King Abdullah ',
-            address: 'Al Urubah ranch Rd, Almathar',
+            name: 'King Abdullah Financial District‏',
+            address: 'King fahad Rd',
             location: {
                 lat: 24.761990,
                 lng: 46.640447
