@@ -57,11 +57,11 @@ var MapWithMarkers = function() {
             },
             isVisible: ko.observable(true)
         }, {
-            name: 'Elm 1',
+            name: 'King Abdullah ',
             address: 'Al Urubah ranch Rd, Almathar',
             location: {
-                lat: 24.708342,
-                lng: 46.664716
+                lat: 24.761990,
+                lng: 46.640447
             },
             isVisible: ko.observable(true)
         }, {
@@ -113,11 +113,11 @@ var MapWithMarkers = function() {
             },
             isVisible: ko.observable(true)
         }, {
-            name: 'InterContinental Riyadh',
+            name: 'SABIC',
             address: 'King Fahad Rd',
             location: {
-                lat: 24.668328,
-                lng: 46.690407
+                lat: 24.799624,
+                lng: 46.720230
             },
             isVisible: ko.observable(true)
         }, {
